@@ -1,4 +1,19 @@
-# Telegram-VC-SingerBot
+<h1 align="center">
+  <b>✨ †hê ᴜɴ ẞø† - ᴍᴜsɪᴄ 🎶</b>
+</h1>
+
+<p align="center">
+  <img src="https://telegra.ph/file/29a06fa7be4286c403f73.jpg" alt="Harsh-un" width=500 height=300>
+</p>
+
+<h6 align="center">
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ᴜɴ ɮօt ⚡</b>
+</h6>
+
+[UN BOTS SUPPORT GROUP](https://t.me/un_bots)
+
+[UN BOTS INFO](https://t.me/un_bots_info)
+
 
 ## Requirements
 
